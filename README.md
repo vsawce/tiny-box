@@ -9,5 +9,5 @@ This project counts the days since Jules and I met each other.
 - Hot Glue
 
 ## Photos
-![](images/box_open.png)
 ![](images/box_closed.png)
+![](images/box_open.jpg)
